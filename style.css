@@ -189,6 +189,7 @@ span {
   }
 
   main {
+    
     width: 100%;
     padding: 4.4rem 3.2rem 0;
 
@@ -239,9 +240,11 @@ span {
   }
 
   main {
+    
       padding: 12.4rem 15.1rem 7rem;
   }
   .fotos {
+    
       grid-template-areas:
       "A B"     
       "C B"
@@ -262,4 +265,20 @@ span {
   .fotos div:nth-child(4) {
       grid-area: C;
   }
+}
+
+footer {
+  color: #4A4E69;
+  font-family: 'Open Sans';
+  font-size: 1.4rem;
+  line-height: 2.8rem;
+  text-align: center;
+  margin: 1rem;
+}
+
+footer a {
+  text-decoration: none;
+  font-style: normal;
+  color: #4A4E69;
+  font-weight: bold;
 }
