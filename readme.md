@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O App controle de hábitos é um aplicativos para usar no controle dos seus hábitos diários para adquirir mais qualidade de vida.
 
-- [Visite o projeto online](https://ramirisonoliveira.github.io/projeto_space_cream/)
+- [Visite o projeto online](https://ramirisonoliveira.github.io/space-cream_web/)
 
 ## 🔖 Layout
 
